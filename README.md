@@ -53,7 +53,10 @@ There are some model explain-ability methods that can be used to detect bias in 
 ![image](https://github.com/user-attachments/assets/f886effb-e045-4115-a01e-75da0d918b1f)
 
 Syntax above shows how two more libraries are import in order to split the dataset and train the model so SHAP tool can weight the inputs contribution to the model. Model is not tested as its score is not relevant for this part of the analysis. 
+
+
 ![image](https://github.com/user-attachments/assets/7602d765-6011-4398-ab38-bea865e49f68)
+
 The bar chart reveals that even though variables like credit history, loan amount and co-borrower income are important, gender plays a crucial role in the model output which denotes a rooted discriminatory factor within data with more importance it should when deciding credit worthiness. For more info on how SHAP works and different bias illustration technics with using it refer to Jan Bieser’s article on the matter.
 
 
