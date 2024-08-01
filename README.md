@@ -19,6 +19,10 @@ However, challenges remain. Privacy regulations make it difficult to gather real
 **Conclusion**
 The integration of AI in banking is undoubtedly transformative, but it comes with the responsibility to ensure fairness and equity in its applications. This research highlights the importance of addressing biases in AI models to prevent the perpetuation of historical inequalities. By adopting proactive measures and continually refining AI systems, financial institutions can pave the way for a more inclusive and just financial landscape.
 
+**Problem statement**
+The integration of AI to streamline loan approval decisions is undeniably here to stay. Consequently, addressing associated challenges has become a top priority for organizations. From an outsider's perspective, it might be tempting to attribute such behavior solely to banks (which is partially accurate). However, the real hurdle lies in the historically biased data fed into machine learning algorithms for predictions. Therefore, it's crucial to illustrate what transpires behind the scenes and identify which factors during the data management phase contribute to these undesirable outcomes.
+
+
 **Objectives**
 •	To uncover and illustrate instances of bias within the data used to develop AI-driven loan eligibility criteria.  
 •	To investigate how AI algorithm biases impact businesses and their customers.  
@@ -34,6 +38,17 @@ The integration of AI in banking is undoubtedly transformative, but it comes wit
 The banking industry is in a much more robust stand compared to its state post the 2008 financial crisis. In 2022, the total worldwide assets increased to \$154,211, marking a 3.79% year-over-year growth from \$148,583 in 2021, as reported by The Banker's Top 1000 World Banks Ranking for 2022 (Meola).  Projections are that banks will be back to profitability sooner than expected, a short downtrend in 2023 (Deloitte):
 
 ![image](https://github.com/user-attachments/assets/9a0e8ac0-9a97-46ab-b132-c37678eca2ce)
+
+
+**Current Trend in the Industry**
+The advent of technology has caused a rapid shift towards online and mobile banking, as well as the emergence of digital-only banks. Additionally, there is a growing emphasis on sustainable and responsible banking practices, which prioritize environmentally friendly methods and ethical investments. Banks are now turning to AI and ML for various tasks, such as fraud detection, risk assessment, and improving customer experiences.  
+**Key Drivers of the Industry**
+There are currently 10 business drivers in the banking industry. Yet, find below what, for this report, are consider the most important 4: Data & Analytics: Disruptive technologies, such as blockchain, are driving change in the industry; Customer experience: On-demand, customized products and service to akin to Amazon; Regulation: Uncertainty surrounding a complex and inter-connected global issue; Digital transformation: Digital labor, artificial and cognitive intelligence, platform models, payments, talent, cloud, API / fintech …and, more (KPMG LLP)
+**Key Players in the Industry and why**
+JP Morgan Chase, an American multinational bank, is distinguished by its extensive assets, worldwide influence, and broad spectrum of services. The Industrial and Commercial Bank of China (ICBC), recognized as the world’s biggest bank in terms of total assets, holds a commanding position in the Asia-Pacific market. HSBC, having a significant footprint in both Europe and Asia, is instrumental in the global banking and finance sector.
+**Barriers in the Industry**
+Some of the entry barriers that exist in the industry are the substantial capital investment as well as the compliance with numerous regulations and a time-consuming process to build reputation and trust. Furthermore, leaving the industry also has its challenges like a costly process associated with breaking long-term arrangements with customers, a flagrant reputational impact if the circumstances are adverse by the time of departing and regulatory restrictions that turn leaving some financials markets a extremely difficult task.
+
 
 **Analysis and Findings**
 In this report, the data bias would be illustrated and analysed by using Loan_Train.csv. The dataset consists of several criteria with its loan approval status. In this case, the dataset would be altered by changing the loan status of data of male gender with approved status to either being approved and rejected randomly. These changes simulated bias intentionally by reducing the approval probability of male customers. But first, a quick look at its attributes: 
