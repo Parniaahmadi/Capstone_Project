@@ -43,13 +43,16 @@ In this report, the data bias would be illustrated and analysed by using Loan_Tr
 Below is the code for altering the loan approval status:
 
 ![image](https://github.com/user-attachments/assets/ed0cbdf2-287e-453f-be3e-c915e799ec89)
+
 The dataset then analysed the correlation of all variables with the loan status by using heatmap. It is visible that there is a significant negative correlation of gender with loan status after the alteration. 
+
 ![image](https://github.com/user-attachments/assets/7d1e05ff-02bd-4500-bfe4-993cffbe0ee8)
 
 ![image](https://github.com/user-attachments/assets/932b967e-610d-4e42-ad1d-8ecb2dd7593e)
 
 In this scenario, the negative correlation indicates that there could be a tendency of negative impact on gender. The bias here was done to show that male customers could get rejected when they were supposed to be accepted originally following the original model or criteria. The illustration shows that reduce rate of approval could happen due to the bias training dataset and bias model. 
 There are some model explain-ability methods that can be used to detect bias in simple way. One of the examples is SHapley Additive exPlanations (SHAP). SHAP provide a measurement of each input contribution towards final output.
+
 ![image](https://github.com/user-attachments/assets/f886effb-e045-4115-a01e-75da0d918b1f)
 
 Syntax above shows how two more libraries are import in order to split the dataset and train the model so SHAP tool can weight the inputs contribution to the model. Model is not tested as its score is not relevant for this part of the analysis. 
