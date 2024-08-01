@@ -29,8 +29,10 @@ The integration of AI in banking is undoubtedly transformative, but it comes wit
 •	How does bias within AI algorithms affect businesses and their customer base?  
 •	What actionable recommendations can be provided to banks for mitigating bias in AI systems within the competitive financial market? 
 
+
 **Statistical Information**
 The banking industry is in a much more robust stand compared to its state post the 2008 financial crisis. In 2022, the total worldwide assets increased to \$154,211, marking a 3.79% year-over-year growth from \$148,583 in 2021, as reported by The Banker's Top 1000 World Banks Ranking for 2022 (Meola).  Projections are that banks will be back to profitability sooner than expected, a short downtrend in 2023 (Deloitte):
+
 ![image](https://github.com/user-attachments/assets/9a0e8ac0-9a97-46ab-b132-c37678eca2ce)
 
 **Analysis and Findings**
@@ -39,11 +41,13 @@ In this report, the data bias would be illustrated and analysed by using Loan_Tr
 ![image](https://github.com/user-attachments/assets/232ff557-2bd2-44c9-b767-3d21cd64a8f0)
 
 Below is the code for altering the loan approval status:
+
 ![image](https://github.com/user-attachments/assets/ed0cbdf2-287e-453f-be3e-c915e799ec89)
 The dataset then analysed the correlation of all variables with the loan status by using heatmap. It is visible that there is a significant negative correlation of gender with loan status after the alteration. 
 ![image](https://github.com/user-attachments/assets/7d1e05ff-02bd-4500-bfe4-993cffbe0ee8)
 
 ![image](https://github.com/user-attachments/assets/932b967e-610d-4e42-ad1d-8ecb2dd7593e)
+
 In this scenario, the negative correlation indicates that there could be a tendency of negative impact on gender. The bias here was done to show that male customers could get rejected when they were supposed to be accepted originally following the original model or criteria. The illustration shows that reduce rate of approval could happen due to the bias training dataset and bias model. 
 There are some model explain-ability methods that can be used to detect bias in simple way. One of the examples is SHapley Additive exPlanations (SHAP). SHAP provide a measurement of each input contribution towards final output.
 ![image](https://github.com/user-attachments/assets/f886effb-e045-4115-a01e-75da0d918b1f)
