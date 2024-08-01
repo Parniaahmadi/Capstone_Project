@@ -42,10 +42,13 @@ The banking industry is in a much more robust stand compared to its state post t
 
 **Current Trend in the Industry**
 The advent of technology has caused a rapid shift towards online and mobile banking, as well as the emergence of digital-only banks. Additionally, there is a growing emphasis on sustainable and responsible banking practices, which prioritize environmentally friendly methods and ethical investments. Banks are now turning to AI and ML for various tasks, such as fraud detection, risk assessment, and improving customer experiences.  
+
 **Key Drivers of the Industry**
 There are currently 10 business drivers in the banking industry. Yet, find below what, for this report, are consider the most important 4: Data & Analytics: Disruptive technologies, such as blockchain, are driving change in the industry; Customer experience: On-demand, customized products and service to akin to Amazon; Regulation: Uncertainty surrounding a complex and inter-connected global issue; Digital transformation: Digital labor, artificial and cognitive intelligence, platform models, payments, talent, cloud, API / fintech …and, more (KPMG LLP)
+
 **Key Players in the Industry and why**
 JP Morgan Chase, an American multinational bank, is distinguished by its extensive assets, worldwide influence, and broad spectrum of services. The Industrial and Commercial Bank of China (ICBC), recognized as the world’s biggest bank in terms of total assets, holds a commanding position in the Asia-Pacific market. HSBC, having a significant footprint in both Europe and Asia, is instrumental in the global banking and finance sector.
+
 **Barriers in the Industry**
 Some of the entry barriers that exist in the industry are the substantial capital investment as well as the compliance with numerous regulations and a time-consuming process to build reputation and trust. Furthermore, leaving the industry also has its challenges like a costly process associated with breaking long-term arrangements with customers, a flagrant reputational impact if the circumstances are adverse by the time of departing and regulatory restrictions that turn leaving some financials markets a extremely difficult task.
 
