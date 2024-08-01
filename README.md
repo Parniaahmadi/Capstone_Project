@@ -1,4 +1,4 @@
-The Impact of Artificial Intelligence on the Banking Industry: Addressing Bias in Credit Approval Decisions
+##The Impact of Artificial Intelligence on the Banking Industry: Addressing Bias in Credit Approval Decisions##
 As a data analyst deeply invested in the intersection of technology and social equity, I have undertaken a comprehensive study to explore the impact of Artificial Intelligence (AI) on the banking industry's credit approval decisions. The automation of loan approvals using machine learning models, while transformative, has raised significant concerns regarding data biases that may perpetuate societal discrimination and economic inequality.
 
 Unveiling the Bias
